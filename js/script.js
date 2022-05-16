@@ -1,9 +1,3 @@
-/*
-    Programmer: Maria Vasquez
-    Student ID: 300357507
-    Purpose: print random quotes from the quotes array when button is clicked
-*/
-
 /*** 
  * `quotes` array 
 ***/
